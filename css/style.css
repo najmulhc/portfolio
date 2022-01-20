@@ -1,16 +1,29 @@
 body{
+    background-color: ;
+}
+.projects{
     background-color: #DFD9E2;
 }
-
 footer{
     background-color: #14281D;
 }
 .recent-post{
     background-color: #70B7A0;
 }
+.btn-main{
+    background-color: #14281D;
+}
 #view-more{
     color: #14281D;
 }
 .text-main{
    color: #14281D;
+}
+.html{
+    background-color: #F06529;
+    padding: .4rem;
+}
+.css{
+    background-color: #264de4;
+    padding: .4rem;
 }
