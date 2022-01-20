@@ -1,9 +1,7 @@
 body{
-    background-color: ;
+    background-color: #ced2d0 ;
 }
-.projects{
-    background-color: #DFD9E2;
-}
+
 footer{
     background-color: #14281D;
 }
@@ -26,4 +24,7 @@ footer{
 .css{
     background-color: #264de4;
     padding: .4rem;
+}
+.border-main{
+    border: 5px solid #14281D;;
 }
