@@ -8,7 +8,7 @@ const Hero = () => {
       <h1 className="title-font sm:text-6xl text-5xl mb-4 font-semibold text-[#071A14]">Hi, I am 
         <span className='text-[#21654E]'> Najmul Huda Chowdhury  </span>
       </h1>
-      <p className="mb-8 leading-relaxed text-lg text-[#071A14]">I am a fronend web developer who work with libraries like ReactJS. I have over 6 months experince over this. I have worked with many project that made me to feel enough comfort to work on real life projects.</p>
+      <p className="mb-8 leading-relaxed text-lg text-[#071A14]">I am a frontend web developer who work with libraries like ReactJS. I have over 6 months experince over this. I have worked with many project that made me to feel enough comfort to work on real life projects.</p>
       <div className="flex justify-center">
        <a href="https://drive.google.com/file/d/1W7YaQac4sKUQyKkLzfHJFYJt03S8N1qV/view"> <button className="inline-flex text-white bg-[#21654E] border-0 py-2 px-6 focus:outline-none hover:bg-[#071A14] rounded text-lg" formTarget='_blank'>Download Resume</button></a>
     

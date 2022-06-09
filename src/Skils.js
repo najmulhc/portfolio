@@ -4,7 +4,7 @@ const Skils = () => {
   return (
       <section className='container mx-auto'>
           <h1 className='text-center text-5xl font-semibold text-[#071A14]'>My Skills</h1>
-          <div className='grid grid-cols-1 md:grid-cols-4 gap-6 mt-8'>
+          <div className='grid grid-cols-1 md:grid-cols-4 gap-6 mt-8 mx-10 md:mx-0'>
               <div className='flex flex-col p-6 rounded-md shadow justify-center items-center'>
                   <h1 className='text-[100px] text-[#D84924] hover:text-[#21654E]'><SiHtml5 /></h1>
                   <h2 className=' text-[#21654E] font-semibold text-3xl mt-4 text-center'>HTML5</h2>
